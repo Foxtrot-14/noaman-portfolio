@@ -1,6 +1,5 @@
-# noaman-portfolio
+# Noaman-portfolio
 
-````markdown
 # 🌐 My Developer Portfolio
 
 A personal portfolio website built with **React + TypeScript** to showcase my skills, projects, and experience.  
